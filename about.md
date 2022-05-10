@@ -37,7 +37,7 @@ Hanging out in the Underwater Dome tank at the Seattle Aquarium.
 
 **This website** is built using Netlify, Jekyll, the Hydejack theme, Visual Studio Code, and Namecheap.
 
-**My computing stack** is primarily a whitebox desktop with several LG panels, a Supermicro 4U server chassis running Unraid, an Intel NUC running Home Assistant, a Unifi Dream Machine SE \(and a bunch of other Unifi equipment\), a personal ThinkBook laptop \(which is cheap and cheerful\), a work-provided HP Zbook \(which is... fine\), a Pixel 6 Pro, an iPad Air, and probably a M1 MacBook Pro of some flavor soon.
+**My computing stack** is primarily a whitebox desktop with several LG panels, a Supermicro 4U server chassis running Unraid \(getting close to a quarter petabyte!\), an Intel NUC running Home Assistant, a Unifi Dream Machine SE \(and a bunch of other Unifi equipment\), a personal ThinkBook laptop \(which is cheap and cheerful\), a work-provided HP Zbook \(which is... fine\), a Pixel 6 Pro, an iPad Air, and probably a M1 MacBook Pro of some flavor soon.
 
 **My software stack** focuses around the Adobe suite and Visual Studio Code. I don't have a strong OS preference but mostly live in Windows and Linux at the moment.
 
