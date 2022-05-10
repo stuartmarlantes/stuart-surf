@@ -23,7 +23,7 @@ I'm a User Experience (UX) Designer, aquarium diver, occasional voice talent, pr
 
 ![Full-width image](assets/img/blog/StuartGreatBarrierWeb.jpg){:.lead width="1920" height="1045" loading="lazy"}
 
-Hanging out in the Underwater Dome tank at the Seattle Aquarium.
+Hanging out at the Great Barrier Reef a few years ago.
 {:.figcaption}
 
 
